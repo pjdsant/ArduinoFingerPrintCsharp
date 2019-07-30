@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\YouPlay\bin\Debug\YouPlay.exe.config
+C:\Users\admin\source\repos\YouPlay\bin\Debug\YouPlay.exe
+C:\Users\admin\source\repos\YouPlay\bin\Debug\YouPlay.pdb
+C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.Form1.resources
+C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.Properties.Resources.resources
+C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.exe
+C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.pdb
