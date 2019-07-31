@@ -8,3 +8,13 @@ C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.csproj.GenerateResource.ca
 C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.exe
 C:\Users\admin\source\repos\YouPlay\obj\Debug\YouPlay.pdb
+C:\repositorio\ArduinoFingerPrintCsharp\bin\Debug\YouPlay.exe.config
+C:\repositorio\ArduinoFingerPrintCsharp\bin\Debug\YouPlay.exe
+C:\repositorio\ArduinoFingerPrintCsharp\bin\Debug\YouPlay.pdb
+C:\repositorio\ArduinoFingerPrintCsharp\obj\Debug\YouPlay.csprojAssemblyReference.cache
+C:\repositorio\ArduinoFingerPrintCsharp\obj\Debug\YouPlay.Form1.resources
+C:\repositorio\ArduinoFingerPrintCsharp\obj\Debug\YouPlay.Properties.Resources.resources
+C:\repositorio\ArduinoFingerPrintCsharp\obj\Debug\YouPlay.csproj.GenerateResource.cache
+C:\repositorio\ArduinoFingerPrintCsharp\obj\Debug\YouPlay.csproj.CoreCompileInputs.cache
+C:\repositorio\ArduinoFingerPrintCsharp\obj\Debug\YouPlay.exe
+C:\repositorio\ArduinoFingerPrintCsharp\obj\Debug\YouPlay.pdb

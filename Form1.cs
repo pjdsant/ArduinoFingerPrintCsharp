@@ -72,7 +72,6 @@ namespace YouPlay
                 {
                     serialPort1.PortName = comboBox1.Items[comboBox1.SelectedIndex].ToString();
                     serialPort1.Open();
-
                 }
                 catch
                 {
