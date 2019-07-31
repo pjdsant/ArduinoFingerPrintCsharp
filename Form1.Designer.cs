@@ -1,4 +1,4 @@
-﻿namespace YouPlay
+﻿namespace ArduinoFingerPrint
 {
     partial class Form1
     {

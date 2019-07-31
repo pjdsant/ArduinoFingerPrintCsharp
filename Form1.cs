@@ -2,12 +2,12 @@
 using System.IO.Ports;
 using System.Windows.Forms;
 
-namespace YouPlay
+namespace ArduinoFingerPrint
 {
     public partial class Form1 : Form
     {
 
-        string RxString;
+        string RxText;
 
         public Form1()
         {
@@ -124,11 +124,11 @@ namespace YouPlay
 
             pictureBox1.InitialImage = null;
 
-            RxString = serialPort1.ReadExisting();              //le o dado disponível na serial
+            RxText  = serialPort1.ReadExisting();              //le o dado disponível na serial
 
             this.Invoke(new EventHandler(trataDadoRecebido));
 
-            if (RxString == "2000" || RxString == "1000")
+            if (RxText == "2000" || RxText == "1000")
             {
                 pictureBox1.Load("C:\\repositorio\\perfilfoto.jpg");
             }
@@ -139,7 +139,7 @@ namespace YouPlay
         {
             pictureBox1.Load("C:\\repositorio\\bio.jpeg");
 
-            textBoxReceive.AppendText(RxString);
+            textBoxReceive.AppendText(RxText);
 
             //if (RxString.Contains("#1") || RxString.Contains("#1"))
             //{
